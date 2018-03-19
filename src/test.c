@@ -8,5 +8,5 @@ int main(){
 }
 
 void print_s(char *s){
-   print(s)-,
+   print(s);
 }
