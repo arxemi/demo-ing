@@ -3,4 +3,4 @@ Richard Wesley Hamming (Chicago, 11 febbraio 1915 – Monterey, 7 gennaio 1998) 
 
 Dopo il dottorato conseguito all'Università dell'Illinois nel 1942, Hamming fu professore all'Università di Louisville fino all'inizio della Seconda guerra mondiale. Nel 1945 fece parte del Progetto Manhattan, programmando uno dei calcolatori digitali per calcolare le soluzioni delle equazioni fornite dai fisici del progetto. 
 
-Per il suo lavoro sui metodi numerici, sistemi di codifica automatica, codici di rilevazione e correzione errori
+Vince il premio turing nel 1968 per il suo lavoro sui metodi numerici, sistemi di codifica automatica, codici di rilevazione e correzione errori
